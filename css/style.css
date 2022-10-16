@@ -504,32 +504,6 @@ footer {
     }
   }
 
-/*
-@keyframes slider-animation {
-
-  0% {
-        opacity: 0;
-  }
-  15% {
-        opacity: 1;
-  }
-  30% {
-        opacity: 1;
-  }
-  45% {
-        opacity: 0;
-  }
-  60% {
-        opacity: 0;
-  }
-  75% {
-        opacity: 0;
-  }
-  100% {
-        opacity: 0;
-  }
-}
-*/
 /****** Titulo Seccion 1 ***** */
 
 .seccion_3_titulo {
