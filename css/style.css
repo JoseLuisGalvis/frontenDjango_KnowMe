@@ -472,7 +472,7 @@ footer {
     border-radius: 0.3em;
 }
   
-#slide-1 {background-image: url(./img/s3A.jpg);}
+#slide-1 {background-image: url(./media/img/s3A.jpg);}
 #slide-2 {animation-delay: 5s; background-image: url(./media/img/s3B.jpg);}
 #slide-3 {animation-delay: 10s; background-image: url(./media/img/s3C.jpg);}
 #slide-4 {animation-delay: 15s; background-image: url(./media/img/s3D.jpg);}
